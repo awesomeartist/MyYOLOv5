@@ -1,0 +1,8 @@
+train: ../data/train.txt
+val: ../data/val.txt
+
+# number of classes
+nc: 9
+
+# class names
+names: [ 'helmet','worker','safetybelt','hold ladder','on high1','beside cabinet','work outside','on car','on high2']
